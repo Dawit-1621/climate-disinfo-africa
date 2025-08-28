@@ -4,3 +4,8 @@ This project collects and analyzes climate disinformation and environmental data
 **Purpose:**  
 - Collects and organizes climate-related datasets including environmental indicators and social media posts.
 - Provides a clean dataset for downstream analysis.
+
+### 2️⃣ `sentiment_analysis.ipynb` – Climate Disinformation Sentiment Analysis
+**Purpose:**  
+- Performs sentiment analysis on climate-related tweets or articles to detect misleading narratives.  
+
