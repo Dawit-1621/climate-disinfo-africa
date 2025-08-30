@@ -17,5 +17,3 @@ This project collects and analyzes climate disinformation and environmental data
 ### 4️⃣ `correlation_analysis.ipynb` – Climate Disinformation Correlation Analysis
 **Purpose:**  
 - Explores the relationship between climate metrics and disinformation patterns.  
-
-
