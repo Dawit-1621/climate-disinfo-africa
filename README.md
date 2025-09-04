@@ -1,5 +1,7 @@
 # Climate Misinformation Project
 Climate Disinformation Africa is a data-driven project analyzing how climate narratives are manipulated online across African digital spaces. It uses social media, news, and environmental data to detect disinformation, map influence networks, and expose lobbying or greenwashing campaigns. Insights and visualizations support journalists, researchers, and policy advocates in countering climate denialism.
+
+
 ### 1️⃣ `data_collection.ipynb` – Climate Disinformation Data Collection
 **Purpose:**  
 - Collects and organizes climate-related datasets including environmental indicators and social media posts.
